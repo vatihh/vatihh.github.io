@@ -10,7 +10,8 @@
 <style>
 body {
   background-image: url('https://i.pinimg.com/originals/10/5b/18/105b18b8db617d4c02aa417cadbdae57.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 </style>
-
-<body>
