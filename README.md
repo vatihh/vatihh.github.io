@@ -6,7 +6,7 @@
 <p>This is my favourite anime character.</p>
 <img src="https://vignette.wikia.nocookie.net/gate-thus-the-jsdf-fought-there/images/f/fe/Rory.jpg/revision/latest?cb=20180112033407" alt="Rory Mercury" width="290" height="290">
 
-<h5>Character Biography</h5>
+<h4>Character Biography</h4>
 
 <table>
   <tr>
