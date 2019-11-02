@@ -10,7 +10,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
 
 <h5>Character Biography</h5>
  
