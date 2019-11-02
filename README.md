@@ -34,4 +34,4 @@
   </tr>
 </table>
 
-<p>Rory Mercury (ロリー·マーキュリー) is a demigoddess and an apostle of Emroy, the god of darkness, war, violence, and death. She looks like a young girl, but her actual age is about 900 years. Along similar lines, despite her delicate, petite frame, she is widely known as Rory the Reaper.</p>
+<p>Rory Mercury (ロリー·マーキュリー) is a demigoddess and an apostle of Emroy, the god of darkness, war, violence, and death. She looks like a young girl, but her actual age is about 900 years. Along similar lines, despite her delicate, petite shape, she is widely known as Rory the Reaper.</p>
