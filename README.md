@@ -29,27 +29,3 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h5>Character Biography</h5>
- 
- <table>
-  <tr>
-    <td>Name</td>
-    <td>Rory Mercury</td>
-  </tr>
-  <tr>
-    <td>Gender</td>
-    <td>Female</td>
-  </tr>
-  <tr>
-    <td>Hair Color</td>
-    <td>Black</td>
-   </tr>
-   <tr>
-    <td>Eye Color</td>
-    <td>Crimson Red</td>
-   </tr>
-   <tr>
-    <td>Title</td>
-    <td>Rory the Reaper</td>
-   </tr>
-</table>
