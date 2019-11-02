@@ -5,4 +5,4 @@
 <a href="http://www.ttu.ee"></a>
 
 <p>This is my favourite anime character.</p>
-<img src="rory.jpg" alt="gate-thus-the-jsdf-fought-there.fandom.com/wiki/Rory_Mercury" width="255" height="255">
+<img src="Rory_Mercury_full_body.jpg" alt="gate-thus-the-jsdf-fought-there.fandom.com/wiki/Rory_Mercury" width="255" height="255">
