@@ -22,6 +22,18 @@
     <td>Gender</td>
     <td>Female</td>
   </tr>
+  <tr>
+    <td>Hair Color</td>
+    <td>Black</td>
+   </tr>
+   <tr>
+    <td>Eye Color</td>
+    <td>Crimson Red</td>
+   </tr>
+   <tr>
+    <td>Title</td>
+    <td>Rory the Reaper</td>
+   </tr>
 </table>
 
 </body>
