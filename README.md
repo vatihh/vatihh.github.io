@@ -1,7 +1,7 @@
 # Valeria
 <h3>I am Valeria</h3>
 <p>Studying at TalTech University. My personal number is 193672IAAB.</p>
-<p>This is the site where any information about my university can be found: <a href=http://www.ttu.ee"" target="_top">Information</a></p>
+<p>This is the site where any information about my university can be found: <a href="http://www.ttu.ee" target="_top">Information</a></p>
 
 
 <p>This is my favourite anime character.</p>
