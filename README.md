@@ -1,4 +1,4 @@
-# vatihh.github.io
+# Valeria
 <h3>I am Valeria</h3>
 <p>Studying at TalTech University. My personal number is 193672IAAB.</p>
 <p>This is the site where any information about my university can be found:</p>
