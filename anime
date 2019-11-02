@@ -1,5 +1,9 @@
 ~ $ git clone https://github.com/vatihh/vatihh.github.io
-
+~ $ cd vatihh.github.io
+~ $ echo "Hello World" > index.html
+~ $ git add --all
+~ $ git commit -m "Initial commit"
+~ $ git puch -u origin master
 <h3>I am Valeria</h3>
 <p>Studying at TalTech University. My personal number is 193672IAAB.</p>
 <p>This is the site where any information about my university can be found:</p>
@@ -7,9 +11,3 @@
 
 <p>This is my favourite anime character.</p>
 <img src="rory.jpg" alt="gate-thus-the-jsdf-fought-there.fandom.com" width="255" height="255">
-
-~ $ cd vatihh.github.io
-~ $ echo "Hello World" > index.html
-~ $ git add --all
-~ $ git commit -m "Initial commit"
-~ $ git puch -u origin master
